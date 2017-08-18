@@ -1,0 +1,26 @@
+.btn {
+	box-sizing: border-box;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+
+	&--header {
+		width: 170px;
+		font-size: 12px;
+		line-height: 39px;
+		font-weight: 700;
+		color: $white;
+		background: $blue;
+		border-radius: 4px;
+	}
+
+	&--about {
+		font-size: 12px;
+	  width: 163px;
+	  line-height: 39px;
+	  color: $white;
+	  background: $red;
+	  border-radius: 4px;
+	}
+}

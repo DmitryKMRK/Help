@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="11.72" height="15.31" viewBox="0 0 11.72 15.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        filter: url(#gradient-overlay-1);
+        fill-rule: evenodd;
+      }
+    </style>
+
+    <filter id="gradient-overlay-1" filterUnits="userSpaceOnUse">
+      <feImage x="0" y="0" width="11.720000000000027" height="15.30999999999949" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTEuNzIwMDAwMDAwMDAwMDI3IiBoZWlnaHQ9IjE1LjMwOTk5OTk5OTk5OTQ5Ij48bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNS44NiIgeTE9IjE1LjMxIiB4Mj0iNS44NiI+CiAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMzAwMjY4Ii8+CiAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZWYyOTY0Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz48L3N2Zz4="/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend in2="SourceGraphic" result="gradientFill"/>
+    </filter>
+  </defs>
+  <path d="M5.858,-0.008 C2.624,-0.008 0.002,2.598 0.002,5.812 C0.002,10.304 5.858,15.306 5.858,15.306 C5.858,15.306 11.715,10.100 11.715,5.812 C11.715,2.598 9.092,-0.008 5.858,-0.008 ZM8.681,8.845 C8.290,8.282 7.722,7.839 7.047,7.598 C7.343,7.310 7.555,6.878 7.652,6.276 C7.782,6.299 7.953,6.166 8.012,5.940 C8.073,5.709 8.145,5.321 8.012,5.286 C7.974,5.275 7.932,5.283 7.891,5.304 L7.891,4.662 C7.912,3.963 7.816,3.288 7.049,2.996 C6.909,2.710 6.901,2.450 6.901,2.450 C6.556,2.758 5.245,2.884 5.245,2.884 L5.260,2.887 C3.598,3.057 3.838,3.651 3.838,4.662 L3.838,5.304 C3.797,5.283 3.757,5.275 3.717,5.286 C3.585,5.321 3.625,5.695 3.686,5.926 C3.745,6.153 3.949,6.302 4.080,6.275 C4.179,6.907 4.377,7.328 4.651,7.604 C3.984,7.846 3.422,8.287 3.034,8.845 C2.122,8.059 1.543,6.901 1.543,5.607 C1.543,3.239 3.474,1.320 5.858,1.320 C8.241,1.320 10.173,3.239 10.173,5.607 C10.174,6.902 9.594,8.059 8.681,8.845 Z" class="cls-1"/>
+</svg>
